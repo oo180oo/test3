@@ -1,0 +1,4 @@
+/* Final accent mapping from the supplied brand palette. */
+:root { --line: var(--warm-gray); }
+.nav-cta { border-color: var(--gold); background: var(--gold); }
+.nav-cta:hover { background: var(--terracotta); border-color: var(--terracotta); }
